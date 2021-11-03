@@ -19,6 +19,6 @@
     "helmet": "^3.9.0",
     "node-datetime": "^2.0.3",
     "node-fetch": "^2.6.0",
-    "validator": "^9.2.0"
+    "validator": "^13.7.0"
   }
 }
